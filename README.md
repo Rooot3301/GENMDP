@@ -4,7 +4,7 @@ Ce programme en python permet de générer un mot de passe aléatoire de la long
 
 **Utilisation**
 
-Pour utiliser ce programme, lancez le fichier password_generator.py avec python. Vous devriez voir une fenêtre s'ouvrir avec un label, une entrée et un bouton. Saisissez la longueur souhaitée pour votre mot de passe dans l'entrée et cliquez sur le bouton "Générer" pour générer le mot de passe. Le mot de passe généré sera affiché dans le label.
+Pour utiliser ce programme, lancez le fichier GENMDP.py avec python. Vous devriez voir une fenêtre s'ouvrir avec un label, une entrée et un bouton. Saisissez la longueur souhaitée pour votre mot de passe dans l'entrée et cliquez sur le bouton "Générer" pour générer le mot de passe. Le mot de passe généré sera affiché dans le label.
 
 **Contributeurs**
 
